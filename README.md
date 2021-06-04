@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# GameReview
+GameReview is a application that users can look at a list of generated games and be able to click to view the games reviews, they can also delete the review.
 
-Things you may want to cover:
+# Installation
+To use this app, clone the [repo](https://github.com/jburger69/GameReview-Backend), then execute:
+`$ bundle install`
 
-* Ruby version
+# Usage
+1. Run rake `db:migrate`
+2. Run `rails s`
+3. Launch [http://localhost:3000](http://localhost:3000) in your browser
 
-* System dependencies
+# Contributing
+Bug reports and pull requests are welcome at [https://github.com/jburger69/RubySpace](https://github.com/jburger69/RubySpace). Contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/).
 
-* Configuration
+# License
+Distributed under the [MIT License](https://opensource.org/licenses/MIT)
 
-* Database creation
+# Link to FrontEnd
+(https://github.com/jburger69/GameReview-frontend)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
