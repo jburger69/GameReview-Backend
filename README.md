@@ -13,7 +13,7 @@ To use this app, clone the [repo](https://github.com/jburger69/GameReview-Backen
 3. Launch [http://localhost:3000](http://localhost:3000) in your browser
 
 # Contributing
-Bug reports and pull requests are welcome at [https://github.com/jburger69/RubySpace](https://github.com/jburger69/RubySpace). Contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/).
+Bug reports and pull requests are welcome at [https://github.com/jburger69/GameReview-Backend](https://github.com/jburger69/RubySpace). Contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 # License
 Distributed under the [MIT License](https://opensource.org/licenses/MIT)
